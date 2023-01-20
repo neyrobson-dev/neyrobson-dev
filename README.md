@@ -11,8 +11,7 @@
 
 <div>
 <a href="https://github.com/neyrobson-dev">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=neyrobson-dev&theme=dark&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=neyrobson-dev&theme=dark&show_icons=true&include_all_commits=true&count_private=true"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=neyrobson-dev&theme=dark&show_icons=true"/>
 </div>
 
 ## 💬 Contacts:
