@@ -20,4 +20,4 @@ Com mais de **15 anos de experiência** em desenvolvimento de software, já crie
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=neyrobson-dev&layout=compact&theme=radical)
 
 ## 📫 **Vamos conversar?**
-Adoro colaborar em projetos inovadores! Me encontre nas redes sociais ou envie um e-mail para **neyrobson@connectwest.com.br**
+Adoro colaborar em projetos inovadores! Me encontre nas redes sociais ou envie um e-mail para **contato@connectwest.com.br**
