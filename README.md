@@ -16,7 +16,6 @@ Com mais de **15 anos de experiência** em desenvolvimento de software, já crie
 📦 Arquitetura de Software | 🛠️ Sistemas Desktop & Web | 🧩 Bancos de Dados Relacionais
 
 ## 📈 **Estatísticas do GitHub**
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=neyrobson-dev&show_icons=true&theme=radical)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=neyrobson-dev&layout=compact&theme=radical)
 
 ## 📫 **Vamos conversar?**
