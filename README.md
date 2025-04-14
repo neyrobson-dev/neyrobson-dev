@@ -1,24 +1,23 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Ney Robson!
+# Olá, eu sou Ney Robson! 👋  
+**Desenvolvedor Sênior | 15+ anos transformando ideias em código**
 
-<div>
-  <p>
-  Brazilian, Baiano, Barreirense, married, father of Miguel. Dedicated developer with more than 10 years of experience with Delphi and a few years of experience in several other languages such as: PHP, JavaScript/TypeScript and C#, programming various types of applications, from financial solutions to mobile applications. Focused on optimizing processes, with quality and performance. I have good communication, I am adaptable to the needs of the company and I have facility in teamwork.
-  </p>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ney-robson-araujo-49944675/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/[SEU-INSTAGRAM-AQUI]/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neyrobson-dev)
 
-## 📈 my github stats
+## 🚀 **Minha Jornada**
+Com mais de **15 anos de experiência** em desenvolvimento de software, já criei soluções robustas e escaláveis utilizando múltiplas tecnologias.
 
-<div>
-<a href="https://github.com/neyrobson-dev">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=neyrobson-dev&theme=dark&show_icons=true"/>
-</div>
+## 💻 **Tecnologias & Habilidades**
+![Delphi](https://img.shields.io/badge/Delphi-%23EE1F35.svg?style=flat&logo=delphi&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+📦 Arquitetura de Software | 🛠️ Sistemas Desktop & Web | 🧩 Bancos de Dados Relacionais
 
-## 💬 Contacts:
+## 📈 **Estatísticas do GitHub**
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=neyrobson-dev&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=neyrobson-dev&layout=compact&theme=radical)
 
-<div>
-<a href="https://www.instagram.com/neyrobsondm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:neyrobson.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/ney-robson-araujo-49944675/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
+## 📫 **Vamos conversar?**
+Adoro colaborar em projetos inovadores! Me encontre nas redes sociais ou envie um e-mail para **neyrobson@connectwest.com.br**
